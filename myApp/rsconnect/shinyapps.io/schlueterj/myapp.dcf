@@ -5,6 +5,12 @@ account: schlueterj
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2639757
+<<<<<<< HEAD
 bundleId: 3473225
 url: https://schlueterj.shinyapps.io/myapp/
 when: 1596543432.57925
+=======
+bundleId: 3472690
+url: https://schlueterj.shinyapps.io/myapp/
+when: 1596532587.01504
+>>>>>>> e62598910345f6fecf7fc3440a952092286e2b17
